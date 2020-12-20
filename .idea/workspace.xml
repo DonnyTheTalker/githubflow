@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
+<project version="4"> 
   <component name="ChangeListManager">ъ
     <list default="true" id="5ea4ec57-6520-4e43-ae88-694a4a24665e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DonnyTheTalkerSchool.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DonnyTheTalkerSchool.txt" afterDir="false" /> 
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
-      <map>
+      <map> 
         <entry key="MAIN">
           <value>
             <State />
@@ -38,7 +38,7 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
+  <component name="VcsManagerConfiguration"> 
     <MESSAGE value="list added" />
     <option name="LAST_COMMIT_MESSAGE" value="list added" />
   </component>
